@@ -1,0 +1,9 @@
+* {
+    /*Mediante el box-sizing nos deja cambiar el padding y el margin sin modificar el tamaño de la imagen
+    Esta bien añadirlo siempre que se utiliza CSS*/
+    box-sizing: border-box;
+    /*Es importante resetear los margenes y los rellenos para que se vea en todos los navegadores igual*/
+    padding: 0px;
+    margin: 0;
+    background-color: #7C7C7C;
+}
