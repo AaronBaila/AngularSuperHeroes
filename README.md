@@ -1,4 +1,4 @@
-# Prueba técnica frontend
+# Prueba técnica Frontend
 Este proyecto es una prueba técnica que realice para una entrevista.
 
 # EjercicioN1
