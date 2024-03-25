@@ -1,4 +1,4 @@
-# Prueba técnica Frontend
+# Prueba técnica Frontend:
 Este proyecto es una prueba técnica que realicé para una entrevista.
 
 # Como configurar el proyecto para visualizarlo en tu ordenador:
