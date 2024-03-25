@@ -1,30 +1,29 @@
 # Prueba técnica Frontend
-Este proyecto es una prueba técnica que realice para una entrevista.
+Este proyecto es una prueba técnica que realicé para una entrevista.
 
-# EjercicioN1
+# Como configurar el proyecto para visualizarlo en tu ordenador:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+- Clonamos el proyecto:
+  ```bash
+  git clone https://github.com/AaronBaila/AngularSuperHeroesFrontend.git
+  ```
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Nos movemos a la carpeta descargada:
+  ```bash
+  cd AngularSuperHeroesFrontend
+  ```
+  
+- Instalamos Angular CLI si todavía no lo has hecho:
+  ```bash
+  npm install -g @angular/cli
+  ```
+  
+- Instalamos dependencias:
+  ```bash
+  npm install
+  ```
+  
+- Ejecutamos el frontend y mediante el parámetro "-o" le indicamos que abra el navegador web tras ejecutar el servidor:
+  ```bash
+  ng serve -o
+  ```
